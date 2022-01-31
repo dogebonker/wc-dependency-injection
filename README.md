@@ -10,7 +10,7 @@ This code has been taken from the [web components dependency injection](https://
 
 > **_Warning! ⚠️_**
 
-In order to use this package you will to declare a `experimentalDecorators` property to `true` in either your `jsconfig.json` or `tsconfig.json`
+In order to use this package you will need to declare an `experimentalDecorators` property to `true` in either your `jsconfig.json` or `tsconfig.json`
 
 Considering your web component tree looks like this:
 
