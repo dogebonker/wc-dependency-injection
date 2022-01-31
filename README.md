@@ -1,8 +1,6 @@
 # wc-dependency-injection
 
-## <img src="https://web-components-resources.appspot.com/static/logo.svg" alt="Web Components" width="32" height="32" />
-
-Dependency Injection Solution for Web Components 😎
+## <img src="https://web-components-resources.appspot.com/static/logo.svg" alt="Web Components" width="32" height="32" /> Dependency Injection Solution for Web Components 😎
 
 ## Credits
 
