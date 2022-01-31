@@ -1,3 +1,3 @@
-export * from "./wc-di-provider/container.provider";
-export * from "./wc-di-provider/di.container";
-export * from "./wc-di-provider/inject.decorator";
+export * from "./container.provider";
+export * from "./di.container";
+export * from "./inject.decorator";
