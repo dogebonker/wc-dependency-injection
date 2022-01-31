@@ -24,7 +24,7 @@
     "web-components"
   ],
   "author": "Manuel Rauber, Yannick Baron",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/skylightxo/wc-dependency-injection/issues"
   },
