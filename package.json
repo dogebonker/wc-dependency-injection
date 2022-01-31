@@ -1,0 +1,44 @@
+{
+  "name": "wc-dependency-injection",
+  "version": "0.1.0",
+  "description": "Web Components dependency injection solution provider.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config jest.config.json",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skylightxo/wc-dependency-injection.git"
+  },
+  "keywords": [
+    "lit",
+    "lit element",
+    "lit html",
+    "dependency injection",
+    "di",
+    "lit ts",
+    "lit typescript",
+    "web components",
+    "wc",
+    "web-components"
+  ],
+  "author": "Daniil Krutogolov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skylightxo/wc-dependency-injection/issues"
+  },
+  "homepage": "https://github.com/skylightxo/wc-dependency-injection#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.7",
+    "ts-jest": "^27.1.3",
+    "typescript": "^4.5.5"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}
