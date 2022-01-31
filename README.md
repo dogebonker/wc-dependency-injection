@@ -18,12 +18,19 @@ Considering your web component tree looks like this:
 
 ```js
 // my-root.component.js
+
+import { ContainerProvider } from "wc-dependency-injection";
+import { Logger } from "@services/logger.service.ts";
+
 @ContainerProvider([{ provide: Logger, useClass: Logger }])
 export class MyRoot extends HTMLElement {
   // ...
 }
 
 // my-child.component.js
+
+import { Inject } from "wc-dependency-injection";
+
 export class MyChild extends HTMLElement {
   @Inject() logger: Logger;
 
