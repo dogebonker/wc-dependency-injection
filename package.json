@@ -23,7 +23,7 @@
     "wc",
     "web-components"
   ],
-  "author": "Daniil Krutogolov",
+  "author": "Manuel Rauber, Yannick Baron",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/skylightxo/wc-dependency-injection/issues"
