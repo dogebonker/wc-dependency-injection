@@ -2,7 +2,8 @@
   "name": "wc-dependency-injection",
   "version": "0.1.0",
   "description": "Web Components dependency injection solution provider.",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "jest --config jest.config.json",
     "build": "tsc"
